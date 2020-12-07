@@ -1,0 +1,35 @@
+<P> -> <S>
+
+<S> -> <CP> | <CP> <NegP> | <ConjP> | <descP> | <det> <N> |
+<S> of <CP> | <S> of <Q> | <det> <N> <N> of CLR | sort of <CP> | <S> with <S> |
+<det> <N> with <CP> in it | <CP> without <N> | <det> <adj> | <det> <Q> | <NegP> |
+<S> is <S> | <S> in <S> | <det> <adj> <adj> | hmmm <S> |
+<det> <S> | <adj> <NegP> | <S> ;) | crap <S> | <S> <descP> | <det> <adj> <N>
+
+<CP> -> <CLR> | <adj> <CLR> | <CLR> <CLR> | <adj> <CLR> <N> | <adj> <CLR> <Q> | <adj> <CLR> <CLR> |
+<adj> <adj> color | <CLR> / <CLR> | <CP> color | <CLR> <N> | <Q> <CLR> | <CLR> looking <CLR> |
+<CLR> colored | <CLR> <N> | <adj> to <CLR> | <CLR> <Q> | <CLR> looking <Q> | <CLR> looking <N> |
+<CP> kinda | <adj> colored <CLR> | <CLR> <CLR> <adj> | <det> <CP>
+
+<adj> -> bright | grassy | dull | darkest | most | true | brighter | more | less | hint | saturated |
+super | lakers | darker | little | dark | lightest | bright | normal | closest | almost | brightest |
+lighter | rich | richer | duller
+
+<N> -> one | others | skin | other | target | image | middle | shade | varients
+
+<Q> -> one | three | 2 | 3
+
+<det> -> the | a
+
+<ConjP> -> <S> <conj> <S>
+<conj> -> than | and | or | , | but
+
+<descP> -> its <adj> | its <S> | it is <S> | they re all <CP> | that is <S>
+
+<NegP> -> <neg> <det> <CP> | <neg> <CP> | <neg> <ConjP> | <neg> <adj> <adj>
+<neg> -> not
+
+<ofP> -> <S> of <S>
+
+<prepP> -> <prep> <ofP> | <prep> <N>
+<prep> -> with | without

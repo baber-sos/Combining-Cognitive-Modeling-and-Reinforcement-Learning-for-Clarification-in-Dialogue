@@ -1,0 +1,46 @@
+[
+    {
+        "condition": "far",
+        "row_index": 7144
+    },
+    {
+        "name": "S",
+        "text": "It is a grey color patch",
+        "timestamp": "2020-06-30 22:18:48.554598",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean dark grey ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:18:48.644214",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "I suppose it is.",
+        "timestamp": "2020-06-30 22:19:03.084708",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:19:03.088526",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "Not really dark grey, but just grey",
+        "timestamp": "2020-06-30 22:19:13.101268",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:19:13.423264",
+        "finished": 1
+    }
+]

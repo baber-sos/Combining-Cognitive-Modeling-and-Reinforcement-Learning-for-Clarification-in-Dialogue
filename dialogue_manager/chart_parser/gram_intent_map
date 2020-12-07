@@ -1,0 +1,97 @@
+1 <CP> color -> Expand <CP>
+2 <CP> kinda -> Expand <CP>
+3 kinda <CP> -> Expand <CP>
+4 kinda <det> <CP> -> Expand <CP>
+5 <CP> then -> Expand <CP>
+6 <adj> <CLR> <N> -> 7
+7 <adj> <CLR> -> Rule IDENTIFY_SET(T,[<adj>],-1,<CLR>)
+8 <adj> <adj> <CLR> -> Rule IDENTIFY_SET(T,[<adj>,<adj>],-1,<CLR>)
+9 <adj> <CLR> <Q> -> Rule IDENTIFY_SET(S,[<adj>],-1,<CLR>)
+10 <adj> <CLR> <CLR> -> Rule IDENTIFY_FROM_SET(T,[<adj>],S) AND IDENTIFY_FROM_REF(S,A,MULTIPLY,B) AND IDENTIFY(A,<CLR>) AND IDENTIFY(B,<CLR>)
+11 <adj> to <CLR> -> 7
+12 <adj> colored <CLR> -> 7
+13 <CLR> <CLR> <adj> ->  Rule IDENTIFY_FROM_REF(T,D,MULTIPLY,C) AND IDENTIFY_FROM_REF(D,A,MULTIPLY,B) AND IDENTIFY(A,<CLR>) AND IDENTIFY(B,<CLR>) AND IDENTIFY_SET(C,[<adj>],-1,None)
+14 <adj> <CLR> toned <N> -> 7
+15 <adj> <CLR> toned <Q> -> 9
+16 <adj> color -> Rule IDENTIFY_SET(T,[<adj>],-1,None)
+17 <adj> <CLR> / <adj> -> 8
+18 <adj> <CLR> <adj> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND IDENTIFY_SET(B,[<adj>],-1,<CLR>) AND IDENTIFY_SET(A,[<adj>],-1,None)
+19 <adj> <CLR> with <CLR> -> 10
+20 <CLR> / <CLR> -> 22
+21 <CLR> looking <CLR> -> 22
+22 <CLR> <CLR> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND IDENTIFY(A,<CLR>) AND IDENTIFY(B,<CLR>)
+23 <CLR> - <CLR> -> 22
+24 <CLR> <N> -> 26
+25 <CLR> colored -> 26
+26 <CLR> -> Rule IDENTIFY(A,<CLR>) 
+27 <CLR> looking <N> -> Rule IDENTIFY_SET(T,[],-1,<CLR>)
+28 <Q> <CLR> -> Rule IDENTIFY_SET(T,[],<Q>,<CLR>)
+29 <S> -> Expand <S>
+30 <CP> -> Expand <CP>
+31 <det> <CP> -> Expand <CP>
+32 <CP> <NegP> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND A=(Expand <CP>) AND B=(Expand <NegP>)
+33 <DescP> -> Expand <DescP>
+36 <det> <adj> -> Rule IDENTIFY_SET(T,[<adj>],-1,None)
+38 <NegP> -> Expand <NegP>
+40 <S> is <S> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND A=(Expand <S>) AND B=(Expand <S>)
+41 <S> in <S> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND A=(Expand <S>) AND B=(Expand <S>)
+42 <det> <adj> <adj> -> Rule IDENTIFY_SET(T,[<adj>,<adj>],-1,None)
+43 <neg> <det> <CP> -> Rule DISTINGUISH(T,A) AND A=(Expand <CP>)
+44 <neg> <CP> -> 43
+45 <neg> <ConjP> -> Rule DISTINGUISH(T,A) AND A=(Expand <ConjP>)
+46 <neg> <adj> <adj> -> Rule DISTINGUISH(T,S) AND IDENTIFY_SET(S,[<adj>,<adj>],-1,None)
+47 <S> <conj> <S> -> Rule COMPARE_REF(T,[<conj>],A,B) AND A=(Expand <S>) AND B=(Expand <S>)
+48 <ConjP> -> Expand <ConjP>
+49 its <adj> -> Rule IDENTIFY_SET(T,[<adj>],-1,None)
+50 its <S> -> Expand <S>
+51 it is <S> -> Expand <S>
+52 theyre all <CP> -> Expand <CP>
+53 that is <S> -> Expand <S>
+54 <S> that s <S> -> 41
+55 <S> of <Q> -> Expand <S>
+56 sort of <CP> -> Expand <CP>
+57 <CP> without <N> -> Expand <CP>
+58 <det> <N> with <CP> in it -> Expand <CP>
+59 <det> <N> <N> of <CLR> -> 26
+60 <det> <adj> of <CP> -> Rule IDENTIFY_FROM_SET(T,[<adj>],A) AND A=(Expand <CP>)
+61 <S> with <S> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND A=(Expand <S>) AND B=(Expand <S>)
+62 <det> <S> -> Expand <S>
+63 <hmmm> <S> -> Expand <S>
+64 <det> <S> -> Expand <S>
+65 <adj> <NegP> -> Rule IDENTIFY_FROM_SET(T,[<adj>],S) AND S=(Expand <NegP>)
+66 crap <S> -> Expand <S>
+67 <S> <DescP> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND A=(Expand <S>) AND B=(Expand <DescP>)
+68 <det> <adj> <N> -> 36
+69 <S> ? -> Rule ASK_CLARIFICATION(T,A) AND A=(Expand <S>)
+70 like <S> -> Expand <S>
+71 so <S> -> Expand <S>
+72 <S> <confirmation> -> Rule CONFIRMATION(T,<confirmation>,A) AND A=(Expand <S>)
+73 <confirmation> <S> -> 72
+74 is that <S> -> 69
+75 <det> <adj> <Q> -> Rule IDENTIFY_SET(T,[<adj>],<Q>,None)
+76 like <S> -> Expand <S>
+77 <adj> -> 36
+78 <adj> <N> -> 36
+79 <adj> <Q> -> 75
+80 <adj> <adj> -> 42
+81 is it <S> -> 69
+82 i see <S> -> Expand <S>
+83 <denial> -> Rule REJECTION(T,<denial>)
+84 <confirmation> -> Rule CONFIRMATION(T,<confirmation>)
+85 <confirmation> -> Rule CONFIRMATION(T,<confirmation>)
+86 <S> . <S> -> 40
+87 <S> . -> Expand <S>
+88 <S> <emoji> -> Expand <S>
+89 i have <S> -> Expand <S>
+90 i see : <S> -> Expand <S>
+91 <CP> <confirmation> -> Rule CONFIRMATION(T,Yes,A) AND A=(Expand <CP>)
+92 <denial> <S> -> Rule REJECTION(T,None,S) AND S=(Expand <S>)
+93 sorry -> Rule GREETING(None,'sorry')
+94 <S> i think -> Expand <S>
+95 it would be <S> -> Expand <S>
+96 i would say <S> -> Expand <S>
+97 <det> <N> <CP> -> Expand <CP>
+98 <det> <N> is <S> -> Expand <S>
+99 pick <CP> -> Expand <CP>
+100 <denial> . <S> -> Rule REJECTION(T,None,S) AND S=(Expand <S>)
+101 <S> of <CP> -> Rule IDENTIFY_FROM_REF(T,A,MULTIPLY,B) AND A=(Expand <S>) AND B=(Expand <CP>)

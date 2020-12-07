@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "close",
+        "row_index": 10632
+    },
+    {
+        "name": "S",
+        "text": "palest brown",
+        "timestamp": "2020-06-30 22:28:25.987459",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean mauve or grey or tan?",
+        "info": "",
+        "timestamp": "2020-06-30 22:28:26.005530",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "tan",
+        "timestamp": "2020-06-30 22:28:38.095870",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:28:38.116608",
+        "finished": 1
+    }
+]

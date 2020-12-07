@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "close",
+        "row_index": 937
+    },
+    {
+        "name": "S",
+        "text": "the greyest one",
+        "timestamp": "2020-06-30 23:04:08.471190",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:04:08.488896",
+        "finished": 1
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "close",
+        "row_index": 11736
+    },
+    {
+        "name": "S",
+        "text": "Pink brown",
+        "timestamp": "2020-06-30 23:22:31.014138",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean mauve or grey?",
+        "info": "",
+        "timestamp": "2020-06-30 23:22:31.041326",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "Mauve",
+        "timestamp": "2020-06-30 23:22:35.718667",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:22:35.741852",
+        "finished": 1
+    }
+]

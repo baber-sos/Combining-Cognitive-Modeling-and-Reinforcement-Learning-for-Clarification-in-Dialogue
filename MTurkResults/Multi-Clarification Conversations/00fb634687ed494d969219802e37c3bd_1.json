@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "close",
+        "row_index": 12723
+    },
+    {
+        "name": "S",
+        "text": "Purple",
+        "timestamp": "2020-06-30 23:23:19.553281",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "bright purple or blue or light purple?",
+        "info": "",
+        "timestamp": "2020-06-30 23:23:19.568244",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "Bright Purple",
+        "timestamp": "2020-06-30 23:23:24.095098",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:23:24.316815",
+        "finished": 1
+    }
+]

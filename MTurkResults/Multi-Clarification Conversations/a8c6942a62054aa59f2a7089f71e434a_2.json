@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "split",
+        "row_index": 10907
+    },
+    {
+        "name": "S",
+        "text": "The target square is purple with black borders",
+        "timestamp": "2020-06-30 22:55:43.378977",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:55:43.669494",
+        "finished": 1
+    }
+]

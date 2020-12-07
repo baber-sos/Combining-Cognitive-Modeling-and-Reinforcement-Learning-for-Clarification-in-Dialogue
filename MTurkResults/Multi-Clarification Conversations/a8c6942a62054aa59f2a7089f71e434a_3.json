@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "close",
+        "row_index": 8721
+    },
+    {
+        "name": "S",
+        "text": "The target square is green with black borders",
+        "timestamp": "2020-06-30 22:56:01.067154",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:56:01.161290",
+        "finished": 1
+    }
+]

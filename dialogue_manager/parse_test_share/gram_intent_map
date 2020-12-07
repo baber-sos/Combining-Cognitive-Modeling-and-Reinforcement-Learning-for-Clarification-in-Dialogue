@@ -1,0 +1,60 @@
+1 <CP> color -> Expand <CP>
+2 <CP> kinda -> Expand <CP>
+3 kinda <CP> -> Expand <CP>
+4 kinda <det> <CP> -> Expand <CP>
+5 <CP> then -> Expand <CP>
+6 <adj> <CLR> <N> -> 7
+7 <adj> <CLR> -> Rule IDENTIFY_FROM_SET(T,[<adj>],S) AND IDENTIFY_SET(S,-1,[],<CLR>)
+8 <adj> <adj> <CLR> -> Rule IDENTIFY_FROM_SET(T,[<adj>,<adj>],S) AND IDENTIFY_SET(S,1,[],<CLR>)
+9 <adj> <CLR> <Q> -> Rule IDENTIFY_FROM_SET(T,[<adj>],S) AND IDENTIFY(S,<CLR>)
+10 <adj> <CLR> <CLR> -> Rule IDENTIFY_FROM_SET(T,[<adj>],A) AND IDENTIFY(A,[<CLR>,<CLR>])
+11 <adj> to <CLR> -> 7
+12 <adj> colored <CLR> -> 7
+13 <CLR> <CLR> <adj> -> 10
+14 <adj> <CLR> toned <N> -> 7
+15 <adj> <CLR> toned <Q> -> 9
+16 <adj> color -> Rule IDENTIFY_FROM_SET(T,[<adj>],ALL_PATCHES)
+17 <adj> <CLR> / <adj> -> 8
+18 <adj> <CLR> <adj> -> 8
+19 <adj> <CLR> with <CLR> -> 10
+20 <CLR> / <CLR> -> 22
+21 <CLR> looking <CLR> -> 22
+22 <CLR> <CLR> -> Rule IDENTIFY_FROM_REF(T,A,+,B) AND IDENTIFY(A,<CLR>) AND IDENTIFY(B,<CLR>)
+23 <CLR> - <CLR> -> 22
+24 <CLR> <N> -> 26
+25 <CLR> colored -> 26
+26 <CLR> -> Rule IDENTIFY(A,<CLR>) 
+27 <CLR> looking <N> -> Rule IDENTIFY_SET(T,<N>,<CLR>)
+28 <Q> <CLR> -> Rule IDENTIFY_SET(T,<Q>,<CLR>)
+29 <S> -> Expand <S>
+30 <CP> -> Expand <CP>
+31 <det> <CP> -> Expand <CP>
+32 <CP> <NegP> -> Rule IDENTIFY_FROM_REF(T,A,+,B) AND A=(Expand <CP>) B=(Expand <NegP>)
+33 <DescP> -> Expand <DescP>
+34 <det> <N> -> Rule IDENTIFY_SET(T,-1,[<N>],None)
+36 <det> <adj> -> Rule IDENTIFY_SET(T,-1,[<adj>],None)
+37 <det> <Q> -> Rule IDENTIFY_SET(T,-1,[<Q>],None)
+38 <negP> -> Expand <negP>
+40 <S> is <S> -> Rule IDENTIFY_FROM_REF(T,A,+,B) AND A=(Expand <S>) AND B=(Expand <S>)
+41 <S> in <S> -> Rule IDENTIFY_FROM_REF(T,A,*,B) AND A=(Expand <S>) AND B=(Expand <S>)
+42 <det> <adj> <adj> -> Rule IDENTIFY_SET(T,-1,[<adj>,<adj>],None)
+43 <neg> <det> <CP> -> Rule DISTINGUISH(T,A) AND A=(Expand <CP>)
+44 <neg> <CP> -> 43
+45 <neg> <ConjP> -> Rule DISTINGUISH(T,A) AND A=(Expand <ConjP>)
+46 <neg> <adj> <adj> -> Rule DISTINGUISH(T,S) AND IDENTIFY_SET(S,-1,[<adj>,<adj>],None)
+47 <S> <conj> <S> -> Rule COMPARE_REF(T,[<conj>],A,B) AND A=(Expand <S>) AND B=(Expand <S>)
+48 <ConjP> -> Expand <ConjP>
+49 its <adj> -> Rule IDENTIFY_SET(T,-1,[<adj>],None)
+50 its <S> -> Expand <S>
+51 it is <S> -> Expand <S>
+52 theyre all <CP> -> Expand <CP>
+53 that is <S> -> Expand <S>
+54 <S> that s <S> -> 41
+55 <S> of <Q> -> Expand <S>
+56 sort of <CP> -> Expand <CP>
+57 <CP> without <N> -> Expand <CP>
+58 <det> <N> with <CP> in it -> Expand <CP>
+59 <det> <N> <N> of <CLR> -> 26
+60 <det> <adj> of <CP> -> Rule IDENTIFY_FROM_SET(T,[<adj>],A) AND A=(Expand <CP>)
+61 <S> with <S> -> Rule IDENTIFY_FROM_REF(T,A,+,B) AND A=(Expand <S>) AND B=(Expand <S>)
+62 <det> <S> -> Expand <S>

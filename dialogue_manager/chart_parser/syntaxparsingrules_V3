@@ -1,0 +1,45 @@
+<P> -> <S>
+
+<S> -> <CP> | <CP> <NegP> | <S> <conj> <S> | <DescP> | <S> of <CP> | <S> of <Q> |
+<det> <N> <N> of <CLR> | sort of <CP> |<det> <adj> | <NegP> | <S> with <S> |
+<det> <N> with <CP> in it | <CP> without <N> | <S> is <S> | <S> in <S> | <det> <adj> <adj> |
+<hmmm> <S> | <det> <S> | <adj> <NegP> | crap <S> | <S> <DescP> | <det> <adj> <N> |
+<S> ? | like <S> | so <S> | <S> <confirmation> | is that <S> | <det> <adj> <Q> | like <S> |
+<adj> | <adj> <N> | <adj> <Q> | <adj> <adj> | is it <S> | i see <S> |
+<denial> | <confirmation> | <S> . <S> | <S> . | <S> <emoji> | i have <S> | i see : <S> |
+<CP> <confirmation> | <confirmation> <S> | <denial> . <S> | <denial> <S> | <S> i think | it would be <S> |
+i would say <S> | <det> <N> <CP> | <det> <N> is <S> | pick <CP>
+
+<CP> -> <CLR> | <adj> <CLR> | <CLR> <CLR> | <adj> <CLR> <N> | <adj> <CLR> <Q> | <adj> <CLR> <CLR> |
+<adj> <adj> <CLR> | <CLR> / <CLR> | <CP> color | <Q> <CLR> | <CLR> looking <CLR> | <CLR> colored |
+<CLR> <N> | <adj> to <CLR> | <CLR> looking <N> | <CP> kinda | <adj> colored <CLR> |
+<CLR> <CLR> <adj> | <adj> <CLR> toned <N> | <adj> <CLR> toned <Q> | <adj> color |
+kinda <CP> | <adj> <CLR> / <adj> | <CLR> - <CLR> | <adj> <CLR> <adj> | <adj> <CLR> with <CLR> |
+kinda <det> <CP> | <CP> then
+
+<adj> -> grassy | dull | darkest | most | true | brighter | more | less | hint | saturated |
+super | lakers | darker | little | dark | lightest | bright | normal | closest | almost | brightest |
+lighter | rich | richer | duller | drabbest | vibrant | second | slightly | regular | based | in between |
+different | least | paler | palest | light
+
+<N> -> one | others | skin | other | target | image | middle | shade | varients | type | tint
+
+<Q> -> one | three | 2 | 3 | two
+
+<det> -> the | a
+
+<ConjP> -> <S> <conj> <S>
+<conj> -> than | and | or | , | but | , or | , and
+
+<DescP> -> its <adj> | its <S> | it is <S> | theyre all <CP> | that is <S> | <det> <Q> thats <S>
+
+<NegP> -> <neg> <det> <CP> | <neg> <CP> | <neg> <ConjP> | <neg> <adj> <adj>
+<neg> -> not | neither
+
+<confirmation> -> yes | maybe | , <confirmation> | correct | yea |
+yeah | yep | right | yup | <confirmation> , maybe | <confirmation> ,
+
+<denial> -> no
+
+<emoji> -> :) | ;) | :) <emoji> | ;) <emoji>
+<hmmm> -> hmmm | mm

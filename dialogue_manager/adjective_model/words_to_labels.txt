@@ -1,0 +1,821 @@
+fawn,fawn
+light gray blue,lightgrayblue
+dark periwinkle,darkperiwinkle
+light lilac,lightlilac
+clay brown,claybrown
+peacock blue,peacockblue
+carnation pink,carnationpink
+pale violet,paleviolet
+yellow,yellow
+cobalt,cobalt
+camouflage green,camouflagegreen
+lemon lime,lemonlime
+minty green,mintygreen
+deep violet,deepviolet
+ugly pink,uglypink
+skin,skin
+dull red,dullred
+apple green,applegreen
+sea blue,seablue
+darkish purple,darkishpurple
+gold,gold
+dark slate blue,darkslateblue
+prussian blue,prussianblue
+deep purple,deeppurple
+yellow ochre,yellowochre
+dark maroon,darkmaroon
+vomit green,vomitgreen
+crimson,crimson
+marine blue,marineblue
+brown,brown
+green-yellow,greenyellow
+sage green,sagegreen
+red-orange,redorange
+royal purple,royalpurple
+easter green,eastergreen
+purpley blue,purpleyblue
+mid blue,midblue
+seafoam blue,seafoamblue
+dark plum,darkplum
+asparagus,asparagus
+light burgundy,lightburgundy
+dark mint green,darkmintgreen
+greenish teal,greenishteal
+grayish green,grayishgreen
+sand,sand
+brownish,brownish
+brownish purple,brownishpurple
+teal,teal
+greenish,greenish
+green-brown,greenbrown
+dusty green,dustygreen
+brown-orange,brownorange
+sunflower yellow,sunfloweryellow
+pinky purple,pinkypurple
+bright fuchsia,brightfuchsia
+blood red,bloodred
+neon pink,neonpink
+navy green,navygreen
+baby blue,babyblue
+rouge,rouge
+lavender,lavender
+pink-red,pinkred
+forest green,forestgreen
+orangey red,orangeyred
+earth,earth
+purple-brown,purplebrown
+lightish green,lightishgreen
+sick green,sickgreen
+light orange,lightorange
+blue,blue
+pale lilac,palelilac
+rich purple,richpurple
+metallic blue,metallicblue
+ugly,ugly
+coral,coral
+dark gold,darkgold
+burgundy,burgundy
+bright purple,brightpurple
+greenish gray,greenishgray
+tan brown,tanbrown
+deep teal,deepteal
+pastel pink,pastelpink
+light kelly green,lightkellygreen
+orangey brown,orangeybrown
+acid green,acidgreen
+bright aqua,brightaqua
+barbie pink,barbiepink
+baby pink,babypink
+bluey gray,blueygray
+dark navy,darknavy
+skin color,skincolor
+leafy green,leafygreen
+dark tan,darktan
+neon yellow,neonyellow
+dirt,dirt
+cool gray,coolgray
+dark khaki,darkkhaki
+mud brown,mudbrown
+dusty rose,dustyrose
+weird,weird
+dark rose,darkrose
+golden,golden
+dark peach,darkpeach
+dried blood,driedblood
+orangish,orangish
+sienna,sienna
+hot green,hotgreen
+dodger blue,dodgerblue
+light mint green,lightmintgreen
+booger green,boogergreen
+lime,lime
+purplish pink,purplishpink
+fluorescent green,fluorescentgreen
+apricot,apricot
+bright lime green,brightlimegreen
+cerulean blue,ceruleanblue
+puke,puke
+algae,algae
+pine green,pinegreen
+light yellow green,lightyellowgreen
+blueberry,blueberry
+dirty blue,dirtyblue
+charcoal,charcoal
+brick orange,brickorange
+indian red,indianred
+ice blue,iceblue
+navy blue,navyblue
+electric purple,electricpurple
+tangerine,tangerine
+stone,stone
+light aqua,lightaqua
+chocolate,chocolate
+melon,melon
+flat green,flatgreen
+olive,olive
+pale salmon,palesalmon
+spearmint,spearmint
+dusty red,dustyred
+flat blue,flatblue
+almost black,almostblack
+barf green,barfgreen
+army green,armygreen
+sky,sky
+yellow tan,yellowtan
+plum,plum
+grape,grape
+darker pink,darkerpink
+camo green,camogreen
+dull orange,dullorange
+dark lavender,darklavender
+deep aqua,deepaqua
+dark hot pink,darkhotpink
+deep magenta,deepmagenta
+light tan,lighttan
+dark blue-green,darkbluegreen
+swamp green,swampgreen
+pink,pink
+raw sienna,rawsienna
+primary blue,primaryblue
+light mustard,lightmustard
+dark blue-gray,darkbluegray
+dark turquoise,darkturquoise
+deep lavender,deeplavender
+bright lilac,brightlilac
+sandstone,sandstone
+pine,pine
+merlot,merlot
+forest,forest
+dull green,dullgreen
+night blue,nightblue
+yellowish,yellowish
+grassy green,grassygreen
+bubblegum pink,bubblegumpink
+warm gray,warmgray
+pale purple,palepurple
+azure,azure
+seafoam green,seafoamgreen
+tree green,treegreen
+blood,blood
+light pea green,lightpeagreen
+pale lime,palelime
+faded green,fadedgreen
+very dark green,verydarkgreen
+tomato,tomato
+weird green,weirdgreen
+off yellow,offyellow
+light aquamarine,lightaquamarine
+poop brown,poopbrown
+bright light blue,brightlightblue
+mango,mango
+green,green
+bright turquoise,brightturquoise
+darker green,darkergreen
+red violet,redviolet
+easter purple,easterpurple
+purplish red,purplishred
+rich blue,richblue
+khaki green,khakigreen
+cadet blue,cadetblue
+battleship gray,battleshipgray
+copper,copper
+irish green,irishgreen
+dark olive,darkolive
+midnight,midnight
+indigo blue,indigoblue
+canary,canary
+auburn,auburn
+gray-brown,graybrown
+orange-red,orangered
+cyan,cyan
+flourescent green,flourescentgreen
+dark sky blue,darkskyblue
+puce,puce
+pink-purple,pinkpurple
+bright lime,brightlime
+flesh tone,fleshtone
+avocado,avocado
+off white,offwhite
+darkish red,darkishred
+light sky blue,lightskyblue
+lighter green,lightergreen
+gray blue,grayblue
+orange,orange
+burnt sienna,burntsienna
+soft blue,softblue
+cornflower,cornflower
+coffee,coffee
+neon green,neongreen
+dark magenta,darkmagenta
+violet pink,violetpink
+slate,slate
+emerald green,emeraldgreen
+greenish brown,greenishbrown
+faded red,fadedred
+vomit,vomit
+lightish blue,lightishblue
+celery green,celerygreen
+faded orange,fadedorange
+pinkish,pinkish
+silver,silver
+dusty teal,dustyteal
+dark navy blue,darknavyblue
+goldenrod,goldenrod
+jade green,jadegreen
+sunshine yellow,sunshineyellow
+off green,offgreen
+pale olive green,paleolivegreen
+dark violet,darkviolet
+reddy brown,reddybrown
+ecru,ecru
+soft pink,softpink
+light green-blue,lightgreenblue
+milk chocolate,milkchocolate
+pale yellow-green,paleyellowgreen
+rose red,rosered
+pure blue,pureblue
+dark royal blue,darkroyalblue
+grayish pink,grayishpink
+adobe,adobe
+rosy pink,rosypink
+lilac,lilac
+robin's egg blue,robinseggblue
+mahogany,mahogany
+pea soup green,peasoupgreen
+steel blue,steelblue
+light olive green,lightolivegreen
+deep green,deepgreen
+dusky rose,duskyrose
+navy,navy
+sandy,sandy
+velvet,velvet
+lipstick,lipstick
+grayish teal,grayishteal
+dark red,darkred
+pastel green,pastelgreen
+brick red,brickred
+carolina blue,carolinablue
+amethyst,amethyst
+dirty yellow,dirtyyellow
+marigold,marigold
+caucasian,caucasian
+red,red
+bright pink,brightpink
+brownish red,brownishred
+baby green,babygreen
+light magenta,lightmagenta
+fuchsia,fuchsia
+royal blue,royalblue
+putty,putty
+sky blue,skyblue
+pastel purple,pastelpurple
+deep lilac,deeplilac
+marine,marine
+teal green,tealgreen
+cornflower blue,cornflowerblue
+gunmetal,gunmetal
+yellow-orange,yelloworange
+deep blue,deepblue
+pale cyan,palecyan
+midnight purple,midnightpurple
+gray pink,graypink
+hunter green,huntergreen
+turquoise green,turquoisegreen
+blush,blush
+darkish blue,darkishblue
+light pink,lightpink
+faded pink,fadedpink
+poop green,poopgreen
+claret,claret
+terracotta,terracotta
+military green,militarygreen
+dark pink,darkpink
+dark coral,darkcoral
+deep pink,deeppink
+pinkish brown,pinkishbrown
+red-brown,redbrown
+reddish pink,reddishpink
+aqua green,aquagreen
+pale sky blue,paleskyblue
+pinkish gray,pinkishgray
+lavender blue,lavenderblue
+lighter purple,lighterpurple
+dusk blue,duskblue
+dark blue,darkblue
+cool blue,coolblue
+snot green,snotgreen
+drab green,drabgreen
+white,white
+light peach,lightpeach
+banana,banana
+twilight blue,twilightblue
+kiwi,kiwi
+butter,butter
+light mauve,lightmauve
+muted blue,mutedblue
+light lavender,lightlavender
+foam green,foamgreen
+brownish gray,brownishgray
+heliotrope,heliotrope
+pinkish purple,pinkishpurple
+orange-yellow,orangeyellow
+light sage,lightsage
+deep orange,deeporange
+greeny brown,greenybrown
+steel,steel
+off blue,offblue
+electric blue,electricblue
+ugly green,uglygreen
+medium blue,mediumblue
+dark seafoam,darkseafoam
+celadon,celadon
+wine red,winered
+purple-pink,purplepink
+light green,lightgreen
+pea green,peagreen
+rusty red,rustyred
+true blue,trueblue
+cherry red,cherryred
+pale gold,palegold
+fire engine red,fireenginered
+violet,violet
+dark aqua,darkaqua
+tea green,teagreen
+raw umber,rawumber
+baby puke green,babypukegreen
+mint,mint
+baby poop green,babypoopgreen
+lawn green,lawngreen
+pastel blue,pastelblue
+neon red,neonred
+turtle green,turtlegreen
+green-gray,greengray
+snot,snot
+barney purple,barneypurple
+viridian,viridian
+kermit green,kermitgreen
+robin's egg,robinsegg
+buff,buff
+dark seafoam green,darkseafoamgreen
+dull blue,dullblue
+hazel,hazel
+salmon,salmon
+bright olive,brightolive
+pale blue-green,palebluegreen
+pale brown,palebrown
+dark gray,darkgray
+grayish,grayish
+medium green,mediumgreen
+green apple,greenapple
+hot purple,hotpurple
+red-pink,redpink
+bright sea green,brightseagreen
+light gold,lightgold
+dark mustard,darkmustard
+pale orange,paleorange
+light lime green,lightlimegreen
+purpley pink,purpleypink
+reddish purple,reddishpurple
+wine,wine
+vibrant blue,vibrantblue
+mocha,mocha
+grayish brown,grayishbrown
+bluey green,blueygreen
+flesh pink,fleshpink
+sage,sage
+brown-green,browngreen
+pea soup,peasoup
+puke yellow,pukeyellow
+seaweed,seaweed
+vermillion,vermillion
+purple gray,purplegray
+ocean blue,oceanblue
+deep red,deepred
+chestnut,chestnut
+lightish red,lightishred
+dusty blue,dustyblue
+leaf green,leafgreen
+violet red,violetred
+key lime,keylime
+greenish turquoise,greenishturquoise
+very light blue,verylightblue
+greenish blue,greenishblue
+bluish gray,bluishgray
+celery,celery
+muddy green,muddygreen
+black,black
+cerise,cerise
+pretty,pretty
+denim blue,denimblue
+darker purple,darkerpurple
+pumpkin,pumpkin
+pale lavender,palelavender
+bright light green,brightlightgreen
+lime yellow,limeyellow
+dandelion,dandelion
+pastel orange,pastelorange
+kiwi green,kiwigreen
+light red,lightred
+electric pink,electricpink
+watermelon,watermelon
+light grass green,lightgrassgreen
+brownish green,brownishgreen
+skin tone,skintone
+ugly purple,uglypurple
+leather,leather
+red-purple,redpurple
+dark sage,darksage
+topaz,topaz
+caramel,caramel
+sickly green,sicklygreen
+electric lime,electriclime
+pale teal,paleteal
+golden yellow,goldenyellow
+yellowish green,yellowishgreen
+bright magenta,brightmagenta
+pumpkin orange,pumpkinorange
+jade,jade
+avocado green,avocadogreen
+muddy yellow,muddyyellow
+light mint,lightmint
+gray,gray
+bright yellow,brightyellow
+puke brown,pukebrown
+sea,sea
+barf,barf
+bright cyan,brightcyan
+very dark purple,verydarkpurple
+peachy pink,peachypink
+light maroon,lightmaroon
+dark forest green,darkforestgreen
+light purple,lightpurple
+duck egg blue,duckeggblue
+light rose,lightrose
+baby shit green,babyshitgreen
+cobalt blue,cobaltblue
+mud,mud
+frog green,froggreen
+vivid green,vividgreen
+faded blue,fadedblue
+dirty pink,dirtypink
+plum purple,plumpurple
+sandy yellow,sandyyellow
+very pale green,verypalegreen
+yellowish brown,yellowishbrown
+light blue gray,lightbluegray
+bright orange,brightorange
+shit brown,shitbrown
+gray purple,graypurple
+yellow-green,yellowgreen
+slate green,slategreen
+sea green,seagreen
+green-blue,greenblue
+umber,umber
+greenish tan,greenishtan
+bronze,bronze
+darker blue,darkerblue
+very light green,verylightgreen
+vivid purple,vividpurple
+burnt yellow,burntyellow
+dark lime,darklime
+violet blue,violetblue
+dusty purple,dustypurple
+hot pink,hotpink
+aqua,aqua
+canary yellow,canaryyellow
+pale olive,paleolive
+warm pink,warmpink
+berry,berry
+eggplant,eggplant
+cherry,cherry
+medium pink,mediumpink
+lightish purple,lightishpurple
+dusky blue,duskyblue
+neon blue,neonblue
+butter yellow,butteryellow
+pale gray,palegray
+lighter blue,lighterblue
+denim,denim
+pale rose,palerose
+steel gray,steelgray
+pinky red,pinkyred
+dark taupe,darktaupe
+dull purple,dullpurple
+brownish yellow,brownishyellow
+wisteria,wisteria
+light bright green,lightbrightgreen
+bubblegum,bubblegum
+orange-brown,orangebrown
+rust red,rustred
+light navy,lightnavy
+deep rose,deeprose
+dark teal,darkteal
+pale lime green,palelimegreen
+true green,truegreen
+aquamarine,aquamarine
+brick,brick
+greenish yellow,greenishyellow
+dark sea green,darkseagreen
+mustard brown,mustardbrown
+dark sand,darksand
+mustard green,mustardgreen
+squash,squash
+light light blue,lightlightblue
+pale aqua,paleaqua
+light indigo,lightindigo
+burnt umber,burntumber
+ruby,ruby
+midnight blue,midnightblue
+light forest green,lightforestgreen
+very light purple,verylightpurple
+bile,bile
+grayish blue,grayishblue
+reddish,reddish
+yellow-brown,yellowbrown
+blue-green,bluegreen
+light neon green,lightneongreen
+light plum,lightplum
+warm brown,warmbrown
+dark cyan,darkcyan
+light seafoam,lightseafoam
+taupe,taupe
+salmon pink,salmonpink
+dark yellow,darkyellow
+slime green,slimegreen
+bottle green,bottlegreen
+shamrock,shamrock
+british racing green,britishracinggreen
+pale red,palered
+barney,barney
+light royal blue,lightroyalblue
+gray green,graygreen
+eggshell,eggshell
+gross green,grossgreen
+algae green,algaegreen
+pale green,palegreen
+purplish brown,purplishbrown
+carnation,carnation
+grass green,grassgreen
+bright sky blue,brightskyblue
+ugly yellow,uglyyellow
+yellowish orange,yellowishorange
+dusk,dusk
+flesh,flesh
+seafoam,seafoam
+medium purple,mediumpurple
+dark aquamarine,darkaquamarine
+warm blue,warmblue
+soft green,softgreen
+deep sky blue,deepskyblue
+lemon,lemon
+jungle green,junglegreen
+brown yellow,brownyellow
+medium brown,mediumbrown
+blood orange,bloodorange
+piss yellow,pissyellow
+light olive,lightolive
+ocean,ocean
+sap green,sapgreen
+medium gray,mediumgray
+mint green,mintgreen
+light navy blue,lightnavyblue
+powder blue,powderblue
+dirt brown,dirtbrown
+dull brown,dullbrown
+indigo,indigo
+dark mint,darkmint
+camel,camel
+emerald,emerald
+olive brown,olivebrown
+light turquoise,lightturquoise
+dark olive green,darkolivegreen
+pale pink,palepink
+pale yellow,paleyellow
+reddish brown,reddishbrown
+parchment,parchment
+apple,apple
+pastel yellow,pastelyellow
+sunflower,sunflower
+dirty orange,dirtyorange
+light yellow,lightyellow
+rose,rose
+very light pink,verylightpink
+royal,royal
+pale turquoise,paleturquoise
+neon purple,neonpurple
+light violet,lightviolet
+chartreuse,chartreuse
+grapefruit,grapefruit
+murky green,murkygreen
+periwinkle,periwinkle
+hospital green,hospitalgreen
+vomit yellow,vomityellow
+moss green,mossgreen
+shocking pink,shockingpink
+turquoise,turquoise
+aubergine,aubergine
+shit green,shitgreen
+dusty orange,dustyorange
+ultramarine,ultramarine
+dull pink,dullpink
+pale blue,paleblue
+reddish orange,reddishorange
+pale magenta,palemagenta
+dark mauve,darkmauve
+olive green,olivegreen
+cool green,coolgreen
+dark fuchsia,darkfuchsia
+aqua blue,aquablue
+light greenish blue,lightgreenishblue
+faded yellow,fadedyellow
+nude,nude
+fern green,ferngreen
+light beige,lightbeige
+banana yellow,bananayellow
+bright blue,brightblue
+dark lime green,darklimegreen
+clay,clay
+muddy brown,muddybrown
+dirty green,dirtygreen
+burnt orange,burntorange
+wintergreen,wintergreen
+dark indigo,darkindigo
+dark lilac,darklilac
+eggshell blue,eggshellblue
+mauve,mauve
+pinkish orange,pinkishorange
+very pale blue,verypaleblue
+pale mauve,palemauve
+dark brown,darkbrown
+ultramarine blue,ultramarineblue
+butterscotch,butterscotch
+orchid,orchid
+gross,gross
+tiffany blue,tiffanyblue
+leaf,leaf
+purple,purple
+ice,ice
+blue violet,blueviolet
+dark gray blue,darkgrayblue
+light periwinkle,lightperiwinkle
+pea,pea
+dark cream,darkcream
+khaki,khaki
+wheat,wheat
+grayish purple,grayishpurple
+icky green,ickygreen
+bright lavender,brightlavender
+tomato red,tomatored
+dark purple,darkpurple
+dull teal,dullteal
+raspberry,raspberry
+ochre,ochre
+iris,iris
+light salmon,lightsalmon
+turquoise blue,turquoiseblue
+blush pink,blushpink
+purplish gray,purplishgray
+light gray,lightgray
+puke green,pukegreen
+bright red,brightred
+bluish purple,bluishpurple
+vivid blue,vividblue
+pistachio,pistachio
+baby poop,babypoop
+beige,beige
+cranberry,cranberry
+lipstick red,lipstickred
+seaweed green,seaweedgreen
+hot magenta,hotmagenta
+brownish pink,brownishpink
+twilight,twilight
+muted green,mutedgreen
+amber,amber
+lemon yellow,lemonyellow
+moss,moss
+dark orange,darkorange
+greeny gray,greenygray
+dark salmon,darksalmon
+light lime,lightlime
+fern,fern
+cocoa,cocoa
+dusky purple,duskypurple
+muted pink,mutedpink
+burnt red,burntred
+kelly green,kellygreen
+sandy brown,sandybrown
+electric green,electricgreen
+purplish,purplish
+blue-purple,bluepurple
+maize,maize
+pinkish red,pinkishred
+orangish brown,orangishbrown
+golden brown,goldenbrown
+muted purple,mutedpurple
+slate gray,slategray
+soft purple,softpurple
+brown-red,brownred
+grape purple,grapepurple
+vibrant purple,vibrantpurple
+rusty orange,rustyorange
+mid green,midgreen
+olive drab,olivedrab
+coral pink,coralpink
+ivory,ivory
+tealish,tealish
+french blue,frenchblue
+bluish green,bluishgreen
+periwinkle blue,periwinkleblue
+darkish green,darkishgreen
+mulberry,mulberry
+blueish,blueish
+blue-gray,bluegray
+faded purple,fadedpurple
+chocolate brown,chocolatebrown
+bright teal,brightteal
+brown-gray,browngray
+strawberry,strawberry
+light cyan,lightcyan
+purple-red,purplered
+sapphire,sapphire
+cerulean,cerulean
+grass,grass
+rust,rust
+bluey purple,blueypurple
+russet,russet
+rust orange,rustorange
+light fuchsia,lightfuchsia
+very dark blue,verydarkblue
+sepia,sepia
+maroon,maroon
+light sea green,lightseagreen
+scarlet,scarlet
+purplish blue,purplishblue
+spring green,springgreen
+light blue,lightblue
+lime green,limegreen
+shit,shit
+cream,cream
+heather,heather
+mushroom,mushroom
+peach,peach
+bright violet,brightviolet
+pale,pale
+diarrhea,diarrhea
+brownish orange,brownishorange
+saffron,saffron
+bright yellow green,brightyellowgreen
+rose pink,rosepink
+purple blue,purpleblue
+fluro green,flurogreen
+dusky pink,duskypink
+teal blue,tealblue
+evergreen,evergreen
+pale peach,palepeach
+poop,poop
+bright indigo,brightindigo
+mustard,mustard
+pear,pear
+bright green,brightgreen
+vibrant green,vibrantgreen
+dark yellow-green,darkyellowgreen
+light brown,lightbrown
+light teal,lightteal
+orangish red,orangishred
+dark beige,darkbeige
+drab,drab
+mustard yellow,mustardyellow
+tan,tan
+magenta,magenta
+dull yellow,dullyellow
+highlighter green,highlightergreen
+blurple,blurple
+macaroni and cheese,macaroniandcheese
+stormy blue,stormyblue
+light seafoam green,lightseafoamgreen
+ocean green,oceangreen
+dusty pink,dustypink
+shamrock green,shamrockgreen
+light blue-green,lightbluegreen
+slate blue,slateblue
+dark green,darkgreen

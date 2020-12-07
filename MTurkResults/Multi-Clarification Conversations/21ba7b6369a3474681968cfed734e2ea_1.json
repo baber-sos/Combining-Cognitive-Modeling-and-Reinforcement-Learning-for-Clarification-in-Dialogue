@@ -1,0 +1,72 @@
+[
+    {
+        "condition": "close",
+        "row_index": 7885
+    },
+    {
+        "name": "S",
+        "text": "Vibrant pink",
+        "timestamp": "2020-06-30 23:03:07.491465",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The hot pink?",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:07.507009",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "The slightly darker pink",
+        "timestamp": "2020-06-30 23:03:24.769730",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "magenta or neon purple?",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:24.787258",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "neon purple",
+        "timestamp": "2020-06-30 23:03:32.501923",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean fuchsia ?",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:32.527520",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "possibly",
+        "timestamp": "2020-06-30 23:03:38.884731",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:38.885184",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "fuchsia",
+        "timestamp": "2020-06-30 23:03:45.250487",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:03:45.275615",
+        "finished": 1
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "condition": "close",
+        "row_index": 2187
+    },
+    {
+        "name": "S",
+        "text": "purple",
+        "timestamp": "2020-06-30 22:13:28.130799",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean bright purple ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:13:28.143653",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:14:38.150898",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean mauve or blue?",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:38.156808",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:14:43.530046",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The light purple?",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:43.535113",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:14:49.530611",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean periwinkle ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:49.535678",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:14:53.272540",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The lavender?",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:53.277686",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:14:58.590765",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The dusty rose?",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:58.595883",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:15:03.192033",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean indigo ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:15:03.197233",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:15:07.070704",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:15:07.075031",
+        "finished": 1
+    }
+]

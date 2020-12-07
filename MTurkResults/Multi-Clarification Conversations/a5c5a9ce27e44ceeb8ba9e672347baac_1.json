@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "close",
+        "row_index": 11518
+    },
+    {
+        "name": "S",
+        "text": "blue",
+        "timestamp": "2020-06-30 22:27:25.956613",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:27:25.969172",
+        "finished": 1
+    }
+]

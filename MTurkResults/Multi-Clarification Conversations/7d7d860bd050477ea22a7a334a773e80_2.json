@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "split",
+        "row_index": 4679
+    },
+    {
+        "name": "S",
+        "text": "light green",
+        "timestamp": "2020-06-30 22:44:08.483189",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean lime green ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:44:08.507145",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "yes",
+        "timestamp": "2020-06-30 22:44:11.256328",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:44:11.261016",
+        "finished": 1
+    }
+]

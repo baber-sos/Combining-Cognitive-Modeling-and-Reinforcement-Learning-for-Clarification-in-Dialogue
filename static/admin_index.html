@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Grit</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="admin_static/admin_index.css" />
+    
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.3/socket.io.min.js"></script>
+    
+    
+    <script type="text/javascript" src="https://unpkg.com/codeflask/build/codeflask.min.js"></script>
+    
+</head>
+
+<body class="notebook_app">
+
+<div id="sessions" class="container">
+    <div id="session_list" class="row">
+        <div class="col-12">
+            <ul id="list">
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="chat" class="container">
+    <div id="inner" class="row ">
+        <div id="inner_text" class="col-12">
+            <!-- <div class="input_area highlight-ipython3" id="code_section">
+                
+            </div> -->
+        </div>
+    </div>
+    <form action="" method="POST">
+            <div class="row" id="sendrow">
+                <div class="col-10 sendcol col-sm-10"> 
+                    <input id="input_text" type="text"/>
+                    <!-- <div id="code_text" hidden></div> -->
+                </div>
+                <!-- <div class="col-1 col-sm-1">
+                    <input type="image" id="code_toggle" src="pics/terminal-2x.png"/>
+                </div> -->
+                <div class="col-2 sendcol col-sm-2">
+                    <input type="submit" id="sendbtn" class="btn btn-primary">
+                </div>
+            </div>
+    </form>            
+</div>
+
+
+<script type="text/javascript" src="admin_static/admin_index.js"></script>
+</body>
+
+</html>

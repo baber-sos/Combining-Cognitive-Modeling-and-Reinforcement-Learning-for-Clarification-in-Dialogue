@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "close",
+        "row_index": 13162
+    },
+    {
+        "name": "S",
+        "text": "lusher green",
+        "timestamp": "2020-06-30 23:03:14.396695",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "sea green or bright green?",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:14.440649",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "sea green",
+        "timestamp": "2020-06-30 23:03:19.477832",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:03:19.502737",
+        "finished": 1
+    }
+]

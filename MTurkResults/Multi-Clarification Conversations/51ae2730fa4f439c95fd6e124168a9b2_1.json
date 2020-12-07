@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "close",
+        "row_index": 10727
+    },
+    {
+        "name": "S",
+        "text": "small",
+        "timestamp": "2020-06-30 22:15:20.536880",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:15:20.537359",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "brown",
+        "timestamp": "2020-06-30 22:16:07.156991",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:16:07.171706",
+        "finished": 1
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "condition": "far",
+        "row_index": 9177
+    },
+    {
+        "name": "S",
+        "text": "f",
+        "timestamp": "2020-06-30 22:14:17.759426",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:17.759902",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "f",
+        "timestamp": "2020-06-30 22:14:18.679040",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:18.679489",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "green",
+        "timestamp": "2020-06-30 22:14:23.758386",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:14:23.773293",
+        "finished": 1
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "far",
+        "row_index": 13639
+    },
+    {
+        "name": "S",
+        "text": "the color of a heart",
+        "timestamp": "2020-06-30 22:17:31.171200",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:17:31.218331",
+        "finished": 1
+    }
+]

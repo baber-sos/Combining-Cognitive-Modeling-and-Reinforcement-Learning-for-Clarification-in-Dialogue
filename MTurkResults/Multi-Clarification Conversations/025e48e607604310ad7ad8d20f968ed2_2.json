@@ -1,0 +1,46 @@
+[
+    {
+        "condition": "split",
+        "row_index": 3443
+    },
+    {
+        "name": "S",
+        "text": "slate",
+        "timestamp": "2020-06-30 23:03:24.862008",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The blue?",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:25.084717",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "slate grey",
+        "timestamp": "2020-06-30 23:03:30.519652",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean grey or teal?",
+        "info": "",
+        "timestamp": "2020-06-30 23:03:30.554663",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "grey",
+        "timestamp": "2020-06-30 23:03:33.160108",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:03:33.175434",
+        "finished": 1
+    }
+]

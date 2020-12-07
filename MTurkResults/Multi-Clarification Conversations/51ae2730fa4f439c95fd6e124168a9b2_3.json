@@ -1,0 +1,85 @@
+[
+    {
+        "condition": "close",
+        "row_index": 4910
+    },
+    {
+        "name": "S",
+        "text": "purple",
+        "timestamp": "2020-06-30 22:16:16.662271",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "light purple or bright purple or blue?",
+        "info": "",
+        "timestamp": "2020-06-30 22:16:16.676380",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "light",
+        "timestamp": "2020-06-30 22:16:21.848420",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean neon purple ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:16:21.853961",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "light purple",
+        "timestamp": "2020-06-30 22:16:25.083247",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean lavender ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:16:25.106281",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:16:30.355738",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean soft purple ?",
+        "info": "",
+        "timestamp": "2020-06-30 22:16:30.360929",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "yres",
+        "timestamp": "2020-06-30 22:16:31.570190",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:16:31.570716",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "yes",
+        "timestamp": "2020-06-30 22:16:32.768578",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:16:32.773046",
+        "finished": 1
+    }
+]

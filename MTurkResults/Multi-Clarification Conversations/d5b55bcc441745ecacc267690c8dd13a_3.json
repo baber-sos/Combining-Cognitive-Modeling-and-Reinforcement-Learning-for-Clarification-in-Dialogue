@@ -1,0 +1,85 @@
+[
+    {
+        "condition": "close",
+        "row_index": 2458
+    },
+    {
+        "name": "S",
+        "text": "neon green",
+        "timestamp": "2020-06-30 21:40:58.627323",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "lime green or grey green or green?",
+        "info": "",
+        "timestamp": "2020-06-30 21:40:58.651941",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "lime green",
+        "timestamp": "2020-06-30 21:41:04.481624",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The grass green?",
+        "info": "",
+        "timestamp": "2020-06-30 21:41:04.497480",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "brighter",
+        "timestamp": "2020-06-30 21:41:11.999594",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean light green ?",
+        "info": "",
+        "timestamp": "2020-06-30 21:41:12.005207",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "ues",
+        "timestamp": "2020-06-30 21:41:18.224791",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 21:41:18.225257",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "yes",
+        "timestamp": "2020-06-30 21:41:20.591598",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean aqua green ?",
+        "info": "",
+        "timestamp": "2020-06-30 21:41:20.596865",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "yes",
+        "timestamp": "2020-06-30 21:41:24.952243",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 21:41:24.956914",
+        "finished": 1
+    }
+]

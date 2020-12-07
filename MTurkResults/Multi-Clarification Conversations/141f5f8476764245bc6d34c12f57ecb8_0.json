@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "far",
+        "row_index": 8036
+    },
+    {
+        "name": "S",
+        "text": "It's the color associated with the doll Barbie",
+        "timestamp": "2020-06-30 23:22:07.188298",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean blue or red or pink?",
+        "info": "",
+        "timestamp": "2020-06-30 23:22:07.205919",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "Pink",
+        "timestamp": "2020-06-30 23:22:15.694637",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 23:22:15.710281",
+        "finished": 1
+    }
+]

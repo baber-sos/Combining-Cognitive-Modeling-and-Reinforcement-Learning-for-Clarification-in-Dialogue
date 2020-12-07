@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "split",
+        "row_index": 9040
+    },
+    {
+        "name": "S",
+        "text": "Light bluish green",
+        "timestamp": "2020-06-30 21:42:29.752751",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 21:42:29.766997",
+        "finished": 1
+    }
+]

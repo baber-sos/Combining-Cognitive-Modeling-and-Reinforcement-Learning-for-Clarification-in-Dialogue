@@ -1,0 +1,46 @@
+[
+    {
+        "condition": "far",
+        "row_index": 3184
+    },
+    {
+        "name": "S",
+        "text": "green",
+        "timestamp": "2020-06-30 22:12:00.807317",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The lime green?",
+        "info": "",
+        "timestamp": "2020-06-30 22:12:00.823594",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:12:19.977706",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean teal or yellow green?",
+        "info": "",
+        "timestamp": "2020-06-30 22:12:19.983779",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "no",
+        "timestamp": "2020-06-30 22:12:39.418054",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:12:39.422775",
+        "finished": 1
+    }
+]

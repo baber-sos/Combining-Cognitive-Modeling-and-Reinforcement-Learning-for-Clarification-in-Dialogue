@@ -1,0 +1,31 @@
+[
+    {
+        "condition": "far",
+        "row_index": 10542
+    },
+    {
+        "name": "S",
+        "text": "A1SX8IVV82M0LW",
+        "timestamp": "2020-06-30 22:27:20.176570",
+        "finished": 0
+    },
+    {
+        "text": "Thank you for submitting your MturkID. Now please provide me with the target description.",
+        "name": "System",
+        "info": ""
+    },
+    {
+        "name": "S",
+        "text": "gray",
+        "timestamp": "2020-06-30 22:27:22.343618",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:27:22.358462",
+        "finished": 1
+    }
+]

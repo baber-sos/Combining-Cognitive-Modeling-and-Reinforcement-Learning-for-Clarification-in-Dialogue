@@ -1,0 +1,203 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+  
+/* Safari */
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+  
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#next_button {
+    float: right;
+}
+
+#instruction{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+#inner{
+    min-height: 250px;
+    max-height: 250px;
+    overflow: auto;
+}
+
+#color_boxes {
+    /* margin-top: 50px; */
+    min-height: 300px;
+    max-height: 30px;
+}
+
+.font-box {
+    width: 100px;
+    text-align: center;
+    align-content: center;
+    /* border: solid 1px black; */
+    margin-right: 8px;
+    margin-left: 7px;
+}
+
+.box {
+    width: 100px;
+    height: 250px;
+    border: solid 1px white;
+    /* background-color: red; */
+    margin-right: 8px;
+    margin-left: 7px;
+}
+
+#chat{
+    border:2px solid white;
+    margin-top:25px;
+    border-radius:5px;
+    width: 50%;
+    font-size:20px;
+    /* width: 70%;
+    float: right; */
+}
+
+/* #sessions {
+    border:2px solid black;
+    margin-top:25px;
+    border-radius:5px;
+    width: 30%;
+    min-height:600px;
+    max-height:600px;
+    float: left;
+} */
+
+#input_text{
+    font-size: 90%;
+    width:100%;
+    height: 50px;
+    border: 2px solid white;
+    /* background-color: lightgray; */
+}
+
+/* #code_toggle {
+    position: relative;
+    z-index: 100;
+}
+
+#code_text, #code_text[hidden] {
+    font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback';
+    display: block;
+    position: relative;
+    width:113%;
+    height: 150px;
+    background-color: gray;
+    border: 2px solid #000;
+    margin-top: 5px;
+} */
+
+/* ul {
+    width: 100%;
+}
+
+ul li {
+    width: 85%;
+    border-bottom: solid 1px #000;
+} */
+
+table {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: arial, sans-serif;
+    font-size: 80%;
+    /* border-collapse: collapse; */
+    border-bottom: solid 1px white;
+}
+
+td, th {
+    /* border: 1px solid #dddddd; */
+    border: none;
+    text-align: center;
+    /* padding: 8px */
+    padding-right: 8px;
+}
+  
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+/* #codeArea .codeflask {
+    width: 113%;
+    height: 150px;
+    border: 2px solid #000;
+}
+
+#codeArea .codeflask::before, #codeArea .codeflask .codeflask__lines {
+    background: lightgray;
+} */
+
+/* #code_text[hidden] {
+    visibility: hidden;
+} */
+
+#sendbtn{
+   width:100%;
+}
+
+/* #code_toggle {
+    padding: 13px;
+    margin-top: 20px;
+    margin-left: 55px;
+} */
+
+#sendrow{
+    border-top:1px white solid;
+    margin-bottom:5px;
+}
+
+/* #code_section {
+    width: 50px;
+    height: 100px; */
+}
+
+/* #contact_lane {
+    width: 50%;
+    height : 100%;
+    position: absolute;
+    border: solid 1px #000;
+    float: left;
+} */
+
+.sendcol{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.right {
+    text-align: right;
+}

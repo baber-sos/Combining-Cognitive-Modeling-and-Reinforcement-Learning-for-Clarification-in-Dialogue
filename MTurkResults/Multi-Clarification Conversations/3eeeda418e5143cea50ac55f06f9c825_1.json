@@ -1,0 +1,42 @@
+[
+    {
+        "condition": "close",
+        "row_index": 13405
+    },
+    {
+        "name": "S",
+        "text": "The patch is the left patch that is the darkest shade present. There are black borders at the top and the bottom of the rectangle.",
+        "timestamp": "2020-06-30 23:00:22.246039",
+        "finished": 0
+    },
+    {
+        "text": "I do not see the same ordering of color patches as you. Please provide me with a color description.",
+        "name": "Matcher",
+        "info": "",
+        "timestamp": "2020-06-30 23:00:22.246092"
+    },
+    {
+        "name": "S",
+        "text": "The patch is the left patch that is the darkest shade green present. There are black borders at the top and the bottom of the rectangle.",
+        "timestamp": "2020-06-30 23:00:33.455106",
+        "finished": 0
+    },
+    {
+        "text": "I do not see the same ordering of color patches as you. Please provide me with a color description.",
+        "name": "Matcher",
+        "info": "",
+        "timestamp": "2020-06-30 23:00:33.455160"
+    },
+    {
+        "name": "S",
+        "text": "The dark green on the left has black borders at the top and the bottom. the right is yellow",
+        "timestamp": "2020-06-30 23:00:56.482344",
+        "finished": 0
+    },
+    {
+        "text": "I do not see the same ordering of color patches as you. Please provide me with a color description.",
+        "name": "Matcher",
+        "info": "",
+        "timestamp": "2020-06-30 23:00:56.482396"
+    }
+]

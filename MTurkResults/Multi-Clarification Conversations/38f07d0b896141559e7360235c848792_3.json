@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "close",
+        "row_index": 9511
+    },
+    {
+        "name": "S",
+        "text": "fuschia",
+        "timestamp": "2020-06-30 22:31:10.271949",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:31:10.295916",
+        "finished": 1
+    }
+]

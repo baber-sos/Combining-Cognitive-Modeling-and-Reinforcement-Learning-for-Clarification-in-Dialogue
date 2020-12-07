@@ -1,0 +1,45 @@
+[
+    {
+        "condition": "close",
+        "row_index": 13814
+    },
+    {
+        "name": "S",
+        "text": "the middle shade of purple",
+        "timestamp": "2020-06-30 22:30:42.803335",
+        "finished": 0
+    },
+    {
+        "text": "I do not see the same ordering of color patches as you. Please provide me with a color description.",
+        "name": "Matcher",
+        "info": "",
+        "timestamp": "2020-06-30 22:30:42.803383"
+    },
+    {
+        "name": "S",
+        "text": "purple",
+        "timestamp": "2020-06-30 22:30:49.640699",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "bright purple or pink or lavender?",
+        "info": "",
+        "timestamp": "2020-06-30 22:30:49.655296",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "pink",
+        "timestamp": "2020-06-30 22:30:57.944539",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:30:57.959721",
+        "finished": 1
+    }
+]

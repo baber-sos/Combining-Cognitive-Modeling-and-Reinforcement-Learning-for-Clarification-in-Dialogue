@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "far",
+        "row_index": 1631
+    },
+    {
+        "name": "S",
+        "text": "baby blue",
+        "timestamp": "2020-06-30 22:27:32.879925",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 22:27:32.905432",
+        "finished": 1
+    }
+]

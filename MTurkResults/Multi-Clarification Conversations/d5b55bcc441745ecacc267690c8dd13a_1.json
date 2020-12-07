@@ -1,0 +1,46 @@
+[
+    {
+        "condition": "close",
+        "row_index": 13386
+    },
+    {
+        "name": "S",
+        "text": "light purple",
+        "timestamp": "2020-06-30 21:40:25.681833",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "Do you mean bright purple or blue or purple?",
+        "info": "",
+        "timestamp": "2020-06-30 21:40:25.706620",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "purple",
+        "timestamp": "2020-06-30 21:40:35.312585",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "The lavender?",
+        "info": "",
+        "timestamp": "2020-06-30 21:40:35.325034",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "yes",
+        "timestamp": "2020-06-30 21:40:39.558361",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 21:40:39.563083",
+        "finished": 1
+    }
+]

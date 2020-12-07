@@ -1,0 +1,72 @@
+[
+    {
+        "condition": "close",
+        "row_index": 8117
+    },
+    {
+        "name": "S",
+        "text": "f",
+        "timestamp": "2020-06-30 22:14:27.052648",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:27.053182",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "t",
+        "timestamp": "2020-06-30 22:14:28.996355",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:28.996803",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "e",
+        "timestamp": "2020-06-30 22:14:29.874014",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:29.874464",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "t",
+        "timestamp": "2020-06-30 22:14:31.038179",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "text": "I could not understand you.",
+        "info": "",
+        "timestamp": "2020-06-30 22:14:31.038622",
+        "finished": 0
+    },
+    {
+        "name": "S",
+        "text": "purple",
+        "timestamp": "2020-06-30 22:14:33.035866",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 0,
+        "timestamp": "2020-06-30 22:14:33.047543",
+        "finished": 1
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "condition": "far",
+        "row_index": 11379
+    },
+    {
+        "name": "S",
+        "text": "Neon yellow",
+        "timestamp": "2020-06-30 21:42:00.129197",
+        "finished": 0
+    },
+    {
+        "name": "L",
+        "info": "",
+        "text": "",
+        "success": 1,
+        "timestamp": "2020-06-30 21:42:00.154221",
+        "finished": 1
+    }
+]

@@ -1,0 +1,6 @@
+orange -> IDENTIFY(CLR1)
+the greyish orange? -> ASK_CLARIFICATION(CLR1) AND IDENTIFY(CLR1)
+yes -> CONFIRMATION(AFFIRMATIVE)
+purple -> IDENTIFY(CLR1)
+light purple? -> ASK_CLARIFICATION(CLR1) AND IDENTIFY(CLR1)
+darker purple, the brighte one -> IDENTIFY_FROM_SET(T, S, Darker and brighter) AND IDENTIFY_SET(S, CLR1)
