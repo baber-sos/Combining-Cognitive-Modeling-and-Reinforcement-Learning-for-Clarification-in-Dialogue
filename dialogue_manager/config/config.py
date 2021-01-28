@@ -62,8 +62,8 @@ os.environ['SELECT_MISTAKE'] = '0.0'
 os.environ['SIMULATOR'] = 'MODEL'
 
 #could be LIST_SAMPLE or LIST_BEST
-os.environ['MATCHER_STRAT'] = 'LIST_SAMPLE'
-# os.environ['MATCHER_STRAT'] = 'LIST_BEST'
+# os.environ['MATCHER_STRAT'] = 'LIST_SAMPLE'
+os.environ['MATCHER_STRAT'] = 'LIST_BEST'
 os.environ['BREAK_CONDITION'] = '4'
 os.environ['THRESH_REWARD'] = '0.0'
 os.environ['MODE'] = 'NORM'
@@ -113,7 +113,8 @@ os.environ['ProbsD'] = '/home/sos/CICLoadedProbs'
 # os.environ['LOAD_MODEL'] = 'COMPOSITE0.4.pt'
 # os.environ['LOAD_MODEL'] = 'LIST_SAMPLEMODELCONSERVATIVE0.0MISS.pt'
 # os.environ['LOAD_MODEL'] = 'LIST_SAMPLEMODELRGC0.0MISS.pt'
-os.environ['LOAD_MODEL'] = 'False'
+os.environ['LOAD_MODEL'] = 'LIST_SAMPLEMODELDCOMPOSITE0.0.pt'
+# os.environ['LOAD_MODEL'] = 'False'
 
 os.environ['START_INDEX'] = '0'
 
@@ -122,82 +123,9 @@ os.environ['MTURK'] = 'False'
 # os.environ['COLOR_MODEL'] = 'COMPOSITE'
 # os.environ['COLOR_MODEL'] = 'DCOMPOSITE'
 # os.environ['COLOR_MODEL'] = 'CONSERVATIVE'
-os.environ['COLOR_MODEL'] = 'RGC'
+os.environ['COLOR_MODEL'] = 'DCOMPOSITE'
 os.environ['AVG_ITERATIONS'] = '50'
 
-os.environ['TRIAL_MODE'] = 'False'
+os.environ['TRIAL_MODE'] = 'True'
 # os.environ['TRIAL_MODE'] = 'False'
-os.environ['EVAL_MODE'] = 'MISS'
-# os.environ['DISK']
-# os.environ['DISK_TEST']
-
-
-
-#saved params
-# import os
-# import math
-# from state.state import INTENTS
-
-# os.environ['EPS_END'] = str(0)
-# os.environ['EPS_START'] = str(0.9)
-
-# os.environ['MAX_CONV_LEN'] = str(15)
-# os.environ['AVG_CONV_LEN'] = str(3)
-
-# os.environ['REPLAY_CAPACITY'] = str(200)
-# os.environ['NUM_LAYERS'] = str(1)
-# os.environ['BATCH_SIZE'] = str(24)
-# os.environ['NUM_CONVERSATIONS'] = str(4000)
-# os.environ['TEST_CONVERSATIONS'] = str(100)
-# os.environ['NUM_EPOCHS'] = str(2)
-# os.environ['LEARN_RATE'] = '0.001'
-# #this can be used for dimension reduction of inputs
-# os.environ['REDUCED_DIM'] = str(math.ceil(math.sqrt(int(os.environ['MAX_CONV_LEN'])*len(INTENTS))))
-
-# os.environ['EPS_DECAY'] = str(0.9 *(int(os.environ['NUM_EPOCHS']) * int(os.environ['AVG_CONV_LEN']) * \
-#     int(os.environ['NUM_CONVERSATIONS'])))
-
-# os.environ['TARGET_TRAIL'] = str(20)
-
-# os.environ['DEVICE'] = 'cpu'
-
-# os.environ['GAMMA'] = '1.0'
-# os.environ['ALPHA'] = '0.8'
-# os.environ['SIMU_IMPREC_THRESH'] = '0.5'
-
-# os.environ['MODELF'] = 'model'
-
-#saved params 2
-# os.environ['EPS_END'] = str(0)
-# os.environ['EPS_START'] = str(0.9)
-
-# os.environ['MAX_CONV_LEN'] = str(15)
-# os.environ['AVG_CONV_LEN'] = str(3)
-
-# os.environ['REPLAY_CAPACITY'] = str(200)
-# os.environ['NUM_LAYERS'] = str(1)
-# os.environ['BATCH_SIZE'] = str(24)
-# os.environ['NUM_CONVERSATIONS'] = str(4000)
-# os.environ['VAL_CONVERSATIONS'] = str(400)
-# os.environ['TEST_CONVERSATIONS'] = str(400)
-# os.environ['NUM_EPOCHS'] = str(2)
-# os.environ['LEARN_RATE'] = '0.001'
-# #this can be used for dimension reduction of inputs
-# os.environ['REDUCED_DIM'] = str(math.ceil(math.sqrt(int(os.environ['MAX_CONV_LEN'])*len(INTENTS))))
-
-# os.environ['EPS_DECAY'] = str(0.6 * (int(os.environ['AVG_CONV_LEN']) * \
-#     int(os.environ['NUM_CONVERSATIONS'])))
-
-# os.environ['TARGET_TRAIL'] = str(20)
-
-# os.environ['DEVICE'] = 'cpu'
-
-# os.environ['GAMMA'] = '1.0'
-# os.environ['ALPHA'] = '0.8'
-# os.environ['SIMU_IMPREC_THRESH'] = '0.7'
-# os.environ['SIMU_SAMPLE_THRESH'] = '0.5'
-
-# os.environ['MODELF'] = '/home/sos/Dialogue_Research/color_in_context/system/' + \
-#     'dialogue_manager/model/weights/trained_model.pt'
-
-# os.environ['AVG_ITERATIONS'] = '100'
+os.environ['EVAL_MODE'] = 'NORMAL'
